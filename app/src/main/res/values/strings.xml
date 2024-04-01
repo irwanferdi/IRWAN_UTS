@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IRWAN_UTS_PAM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    SplashScreen-->
+    <string name="title_splash_screen">User Dev</string>
+
+<!--    Auth   -->
+    <string name="text_login">Login</string>
+    <string name="text_title_login">Login Page</string>
+    <string name="text_register">Register</string>
+    <string name="text_title_register">Register Page</string>
+    <string name="nama">IRWANNQT UTS PAM</string>
+    <string name="namasya">IRWAN_121140008</string>
+    <string name="namalogin">Selamat Datang Di Aplikasi IRWAN</string>
+    <string name="textregister">Halaman Register</string>
+</resources>

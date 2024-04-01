@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_image_width">100dp</dimen>
+    <dimen name="nav_header_image_height">90dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- item user -->
+    <dimen name="item_card_cornerRadius">20dp</dimen>
+    <dimen name="item_card_elevation">20dp</dimen>
+    <dimen name="item_image_width">100dp</dimen>
+    <dimen name="item_image_height">100dp</dimen>
+    <dimen name="item_text_size">25sp</dimen>
+
+<!--    SplashScreen-->
+    <dimen name="text_size_splash_screen">24sp</dimen>
+    <dimen name="mb_splash_screen">16dp</dimen>
+
+<!--    Auth-->
+    <dimen name="padding_auth">16dp</dimen>
+    <dimen name="mb_image_auth_login">16dp</dimen>
+    <dimen name="mb_image_auth_register">24dp</dimen>
+    <dimen name="mt_text_auth">16dp</dimen>
+    <dimen name="mb_text_auth">16dp</dimen>
+    <dimen name="text_size_title_auth">32sp</dimen>
+    <dimen name="mt_button_auth">16dp</dimen>
+</resources>
